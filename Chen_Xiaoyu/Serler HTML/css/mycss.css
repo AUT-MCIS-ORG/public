@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+.padding0{padding:0;}
+.mt6{margin-top: 6px}
+.mt20{margin-top: 20px}
+.mt55{margin-top:55px}
+
+.myul li{border-bottom:1px solid #ececec;line-height:30px}
+.list-unstyled li{margin-bottom:20px;}
+
+.fa-facebook{background:url(../images/fa-facebook.png) no-repeat 0 2px;width:25px;height:20px;display: inline-block;}
+.fa-twitter{background:url(../images/fa-twitter.png) no-repeat 0 2px;width:25px;height:20px;display: inline-block;}
+.fa-google-plus{background:url(../images/fa-google-plus.png) no-repeat 0 2px;width:25px;height:20px;display: inline-block;}
+.glyphicon{cursor:pointer}
+
+.tophearder{background:#337ab7;width:100%;border-bottom:12px solid #ffcc00;}
+.bottomdb{background:#337ab7;width:100%;padding:26px 0 40px;border-top:12px solid #ffcc00;}
+.help{margin-top:55px;}
+.help li{border:1px solid #69b3df;}
+.help li a{color:#94ceff}
+.mecenter{padding-top:126px;padding-bottom:106px}
+a.lianjieys {font-size:15px;}
+a.lianjieys:hover{ text-decoration:underline}
+.c_padding{padding-top:95px;padding-bottom:80px;}
