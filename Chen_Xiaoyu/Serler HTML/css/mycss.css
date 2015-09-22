@@ -4,7 +4,9 @@
 .mt6{margin-top: 6px}
 .mt20{margin-top: 20px}
 .mt55{margin-top:55px}
-
+.mtb40{margin-top:40px;margin-bottom:40px}
+.mt20b100{margin-top: 20px;margin-bottom:100px}
+.mt80b40{margin-top: 80px;margin-bottom:40px}
 .myul li{border-bottom:1px solid #ececec;line-height:30px}
 .list-unstyled li{margin-bottom:20px;}
 
@@ -22,3 +24,4 @@
 a.lianjieys {font-size:15px;}
 a.lianjieys:hover{ text-decoration:underline}
 .c_padding{padding-top:95px;padding-bottom:80px;}
+.a_padding{padding-top:50px;padding-bottom:60px;}
